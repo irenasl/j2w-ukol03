@@ -1,11 +1,10 @@
-package cz.czechitas.java2webapps.ukol3.controller.entity;
+package cz.czechitas.java2webapps.ukol3.entity;
 
 public class Vizitka {
     private String jmeno;
     private String firma;
     private String ulice;
     private String obecPsc;
-    private String celaAdresa;
     private String email;
     private String telefon;
     private String web;
